@@ -1,2 +1,3 @@
-# spaceshooters_unity_game
-A tutorial game made with unity 
+# Spaceshooters game
+A tutorial game build with Unity. 
+
